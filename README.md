@@ -27,7 +27,7 @@ Configure and integrate the AI chatbot for user interactions. Ensure that the ch
 Here are some screenshots of the AgriCure application:
 **Home Interface**
 
-![Home](assets/1.png)
+![Home](assets/1.jpg)
 
 ![Home](assets/2.jpg)
 
