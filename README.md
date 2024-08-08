@@ -29,7 +29,7 @@ Here are some screenshots of the AgriCure application:
 
 
 
-<img src="assets/1.jpg" width="100" height="100" alt="Home Interface">
+<img src="assets/1.jpg"  height="1000" alt="Home Interface">
 ![Home](assets/2.jpg)
 
 **Farm Management**
