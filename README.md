@@ -27,28 +27,28 @@ Configure and integrate the AI chatbot for user interactions. Ensure that the ch
 Here are some screenshots of the AgriCure application:
 **Home Interface**
 
-[!Home](assets/1.png)
+![Home](assets/1.png)
 
-[!Home](assets/2.jpg)
+![Home](assets/2.jpg)
 
 **Farm Management**
 
-[!farm](assets/3.jpg)
+![farm](assets/3.jpg)
 
-[!News Plants](assets/4.jpg)
+![News Plants](assets/4.jpg)
 
-[!News Details](assets/5.jpg)
+![News Details](assets/5.jpg)
 
 **Plant Monitoring IOT**
 
-[!Plant Monitoring](assets/6.jpg)
+![Plant Monitoring](assets/6.jpg)
 
 **Plant Disease Detection with AI**
 
-[!Disease Detection](assets/7.jpg)
+![Disease Detection](assets/7.jpg)
 
-[!Disease Detection](assets/8.jpg)
+![Disease Detection](assets/8.jpg)
 
 **AI Chatbot**
 
-[!Agricure Chatbot](assets/9.jpg)
+![Agricure Chatbot](assets/9.jpg)
