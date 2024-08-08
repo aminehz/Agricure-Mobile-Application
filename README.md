@@ -30,26 +30,25 @@ Here are some screenshots of the AgriCure application:
 
 
 <img src="assets/1.jpg"  height="800" alt="Home Interface">
-![Home](assets/2.jpg)
+<img src="assets/2.jpg"  height="800" alt="Home Interface">
+
 
 **Farm Management**
+<img src="assets/3.jpg"  height="800" alt="Home Interface">
+<img src="assets/4.jpg"  height="800" alt="Home Interface">
+<img src="assets/5.jpg"  height="800" alt="Home Interface">
 
-![farm](assets/3.jpg)
-
-![News Plants](assets/4.jpg)
-
-![News Details](assets/5.jpg)
 
 **Plant Monitoring IOT**
 
-![Plant Monitoring](assets/6.jpg)
+<img src="assets/6.jpg"  height="800" alt="Home Interface">
+
 
 **Plant Disease Detection with AI**
+<img src="assets/7.jpg"  height="800" alt="Home Interface">
+<img src="assets/8.jpg"  height="800" alt="Home Interface">
 
-![Disease Detection](assets/7.jpg)
-
-![Disease Detection](assets/8.jpg)
 
 **AI Chatbot**
+<img src="assets/9.jpg"  height="800" alt="Home Interface">
 
-![Agricure Chatbot](assets/9.jpg)
